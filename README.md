@@ -20,4 +20,8 @@ This repository contains the implementation for a robot guidance controller that
   </ul>
 </ol>
 
+## Note
+
+To run the program, you have to execute the LightSensorRobot.java file.
+
 Feel free to explore, run the program, and observe the robot's successful navigation through the unknown environment.
